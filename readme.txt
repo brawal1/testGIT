@@ -6,3 +6,4 @@ It's cloudy outside
 =======
 Updating the text file using Master Repo
 >>>>>>> master
+Added a new line using my-test-branch
