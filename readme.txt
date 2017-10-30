@@ -6,3 +6,4 @@ It's windy outside
 =======
 Updating the text file using Master Repo
 >>>>>>> master
+hello world, I am learning GIT
